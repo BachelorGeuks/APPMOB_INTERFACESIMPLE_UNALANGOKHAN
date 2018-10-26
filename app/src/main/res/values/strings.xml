@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string name="action_settings">Parameters</string>
+    <string name="test_text_name">Hello World!</string>
+    <string name="string_name">Form</string>
+    <string name="string_username">First Name</string>
+    <string name="string_email" translatable="false">Email (auto)</string>
+    <string name="string_phone">Phone</string>
+    <string name="string_Birthday">Birthday</string>
+    <string name="string_male">Male</string>
+    <string name="string_female">Female</string>
+    <string name="string_validate">Validate</string>
+    <string name="string_lastname">Name</string>
+    <string name="string_language1" translatable="false">C</string>
+    <string name="string_language2" translatable="false">C++</string>
+    <string name="string_language3" translatable="false">C#</string>
+    <string name="string_language4" translatable="false">PHP</string>
+    <string name="string_imagedescription">It\'s me</string>
+    <string name="string_nbrhours">Played time</string>
+    <string name="string_reset">Reset</string>
+</resources>

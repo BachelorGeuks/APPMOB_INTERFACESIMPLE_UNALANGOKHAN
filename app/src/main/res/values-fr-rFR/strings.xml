@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Formulaire</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="test_text_name">Bonjour tout le monde!</string>
+    <string name="string_name">Formulaire</string>
+    <string name="string_phone">Téléphone</string>
+    <string name="string_Birthday">Anniversaire</string>
+    <string name="string_male">Homme</string>
+    <string name="string_female">Femme</string>
+    <string name="string_validate">Valider</string>
+    <string name="string_username" translatable="false">Prénom</string>
+    <string name="string_lastname">Nom</string>
+    <string name="string_imagedescription">C\'est moi</string>
+    <string name="string_nbrhours">Heures joués</string>
+    <string name="string_reset">Réinitialiser</string>
+</resources>
